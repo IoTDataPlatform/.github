@@ -1,5 +1,16 @@
 # IoT Data Platform
 
+## Демо-проекты (кейсы):
+- **Автобусы**: обработка прибытий
+  - https://github.com/IoTDataPlatform/IoT_Data_Platform_transport_scenario (Kafka, Redis, PostgreSQL, MinIO(S3), docker-compose)
+  - https://github.com/IoTDataPlatform/transport_demo_project_backend (Java Spring backend)
+  - https://github.com/IoTDataPlatform/transport_demo_project_frontend (React web UI)
+- **Датчики влажности**: оконные агрегации и подсчёт “сухих дней”
+  - https://github.com/IoTDataPlatform/pvz_demo_project (MQTT, Kafka, Flink, Redis, PostgreSQL, docker-compose, Java Spring backend, React web UI)
+- **RICH detector**: фильтрация колец
+  - https://github.com/IoTDataPlatform/richgen_demo_project (Kafka, Flink)
+---
+
 ### Цель проекта
 
 Цель нашего проекта — создать универсальную платформу для IoT-систем обработки данных.
@@ -39,19 +50,6 @@
 
 Справа - Serve: этот слой отвечает за доступ к данным - для API, дашбордов, аналитики и любых пользовательских приложений.
 
----
-
-## Демо-проекты (кейсы)
-
-В рамках разработки платформы предусмотрены и реализуются несколько сценариев, демонстрирующих один и тот же каркас (ingest/transform/serve), но с разными доменами данных:
-- **Автобусы**: обработка прибытий:
-  - https://github.com/IoTDataPlatform/IoT_Data_Platform_transport_scenario
-  - https://github.com/IoTDataPlatform/transport_demo_project_backend
-  - https://github.com/IoTDataPlatform/transport_demo_project_frontend
-- **Датчики**: оконные агрегации и подсчёт “сухих дней”
-  - https://github.com/IoTDataPlatform/pvz_demo_project
-- **RICH detector**: фильтрация колец:
-  - https://github.com/IoTDataPlatform/richgen_demo_project
 ---
 
 ## Планы развития
