@@ -9,6 +9,8 @@
   - https://github.com/IoTDataPlatform/pvz_demo_project (MQTT, Kafka, Flink, Redis, PostgreSQL, docker-compose, Java Spring backend, React web UI)
 - **RICH detector**: фильтрация колец
   - https://github.com/IoTDataPlatform/richgen_demo_project (Kafka, Flink)
+- **Датчики воздуха**: отслеживание уровня углекислого газа и влажности
+  - https://github.com/IoTDataPlatform/avs_demo_project
 ---
 
 ### Цель проекта
