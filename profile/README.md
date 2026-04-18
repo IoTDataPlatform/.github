@@ -1,4 +1,6 @@
 # IoT Data Platform
+## MVP:
+https://github.com/IoTDataPlatform/constructor
 
 ## Демо-проекты (кейсы):
 - **Автобусы**: обработка прибытий
