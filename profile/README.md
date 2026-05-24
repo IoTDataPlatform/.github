@@ -1,8 +1,8 @@
 # IoT Data Platform
 ## MVP:
 https://github.com/IoTDataPlatform/constructor
-## План релиза:
-https://github.com/IoTDataPlatform/.github/blob/main/RELEASE.md
+## Релиз:
+https://github.com/IoTDataPlatform/iot_data_platform_release
 
 ## Демо-проекты (кейсы):
 - **Автобусы**: обработка прибытий
